@@ -1,0 +1,12 @@
+#container{
+	margin-left: -550px; 
+	background-color:#CCFFFF;
+}
+
+#centerColumn{
+	margin-left:50%;
+	width:500px;
+	background-color:white;
+	padding-left:10px;
+	padding-right:10px;
+}
